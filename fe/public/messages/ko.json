@@ -1,0 +1,9 @@
+{
+    "HomePage": {
+        "title": "안녕 세계야",
+        "about": "가다 어바웃 페이지"
+    },
+    "AboutPage": {
+        "name": "엔젤 플레이어"
+    }
+}
